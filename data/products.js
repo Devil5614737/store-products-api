@@ -11,7 +11,8 @@ const products=[
         rating:{
             rate:3,
             count:12
-        }
+        },
+        quantity:1
     },
     {
         id:2,
@@ -33,7 +34,8 @@ const products=[
         rating:{
             rate:4.4,
             count:12
-        }
+        },
+        quantity:1
     },
     {
         id:4,
@@ -44,7 +46,8 @@ const products=[
         rating:{
             rate:2,
             count:12
-        }
+        },
+        quantity:1
     },
     {
         id:5,
@@ -55,7 +58,8 @@ const products=[
         rating:{
             rate:5,
             count:12
-        }
+        },
+        quantity:1
     },
     {
         id:6,
@@ -66,7 +70,8 @@ const products=[
         rating:{
             rate:2,
             count:12
-        }
+        },
+        quantity:1
     },
     {
         id:7,
@@ -77,7 +82,8 @@ const products=[
         rating:{
             rate:2,
             count:12
-        }
+        },
+        quantity:1
     },
     {
         id:8,
@@ -88,7 +94,8 @@ const products=[
         rating:{
             rate:4.5,
             count:12
-        }
+        },
+        quantity:1
     },
     {
         id:9,
@@ -99,7 +106,8 @@ const products=[
         rating:{
             rate:4,
             count:12
-        }
+        },
+        quantity:1
     },
     {
         id:10,
@@ -110,7 +118,8 @@ const products=[
         rating:{
             rate:4,
             count:12
-        }
+        },
+        quantity:1
     },
     {
         id:11,
@@ -121,7 +130,8 @@ const products=[
         rating:{
             rate:4,
             count:12
-        }
+        },
+        quantity:1
     },
     {
         id:12,
@@ -132,7 +142,8 @@ const products=[
         rating:{
             rate:4,
             count:12
-        }
+        },
+        quantity:1
     },
 ]
 
