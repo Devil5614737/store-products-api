@@ -23,7 +23,8 @@ const products=[
         rating:{
             rate:3,
             count:12
-        }
+        },
+        quantity:1
     },
     {
         id:3,
